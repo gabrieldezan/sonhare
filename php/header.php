@@ -25,9 +25,11 @@
         <li><a href="images/gallery-thumb03.jpg" data-fancybox><img src="images/gallery-thumb03.jpg" alt="Image"></a></li>
       </ul>
       <address>
-        Rua Castro Alves, 2275 - Sala 3<br>Cascavel, Paraná
+        Rua Castro Alves, 2275 - Sala 13<br>Cascavel, Paraná<br>
+        Plantão:<br>
+        Rua Pio XII, 2179,<br>(esquina com Rua Rio de Janeiro)
       </address>
-      <h6>+380(98)298-59-73</h6>
+      <h6>(45) 9 9957-4992</h6>
       <p><a href="#">contato@sonhare.com.br</a></p>
       <ul class="social-media">
         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -46,17 +48,17 @@
         <div class="menu">
         <ul>
           <li><a href="index.php">Home</a></li>
-          <li><a href="#quem-somos">Quem Somos</a></li>
-          <li><a href="#">Serviços</a>
+          <li><a href="index.php#quem-somos">Quem Somos</a></li>
+          <li><a href="index.php#">Serviços</a>
               <ul>
-                <li><a href="#servico1">Financiamento Habitacional</a></li>
-                <li><a href="#servico2">Consórcio de Imóveis e Veículos</a></li>
-                <li><a href="#servico3">Empréstimo consignado</a></li>
-                <li><a href="#servico4">Seguros</a></li>
+                <li><a href="index.php#servico1">Financiamento Habitacional</a></li>
+                <li><a href="index.php#servico2">Consórcio de Imóveis e Veículos</a></li>
+                <li><a href="index.php#servico3">Empréstimo consignado</a></li>
+                <li><a href="index.php#servico4">Seguros</a></li>
               </ul>
           </li>
-          <li><a href="#simulacao">Simulação</a></li>
-          <li><a href="#contato">Contato</a></li>
+          <li><a href="index.php#simulacao">Simulação</a></li>
+          <li><a href="index.php#contato">Contato</a></li>
           <li><a href="blog.php">Blog</a></li>
           
         </ul>

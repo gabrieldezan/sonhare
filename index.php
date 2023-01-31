@@ -257,20 +257,22 @@
   <section id="contato" class="contact">
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-lg-6 wow fadeInUp"> <b>07</b>
+        <div class="col-lg-4 wow fadeInUp"> <b>07</b>
           <h4><span>Informações</span> de contato</h4>
           <small>Sonhare</small>
         </div>
-        <div class="col-lg-3 col-md-6 wow fadeInUp">
+        <div class="col-lg-5 col-md-6 wow fadeInUp">
           <address>
             <strong>Faça uma visita</strong>
-            <p>Rua Castro Alves, 2275 - Sala 3<br>Cascavel, Paraná</p>
+            <p>Rua Castro Alves, 2275 - Sala 13 -Cascavel, Paraná</p><br>
+            <strong>Plantão</strong>
+            <p>Rua Pio XII, 2179, (esquina com Rua Rio de Janeiro)</p>
           </address>
         </div>
         <div class="col-lg-3 col-md-6 wow fadeInUp">
           <address>
-            <strong>Envie um email</strong>
-            <p><a href="#">contato@sonhare.com.br</a><br>+55 (45) 9 9999-9999</p>
+            <strong>Fale conosco</strong>
+            <p><a href="#">contato@sonhare.com.br</a><br>(45) 3323-5366<br>(45) 9 9957-4992</p>
           </address>
         </div>
       </div>
@@ -315,33 +317,7 @@
   </section>
 
 
-  <section class="footer-bar">
-    <div class="container">
-      <div class="inner wow fadeIn">
-        <div class="row">
-          <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s">
-            <figure><img src="images/footer-icon01.png" alt="Image"></figure>
-            <h3>Endereço</h3>
-            <p>Rua Castro Alves, 2275 - Sala 3<br>
-              Cascavel, Paraná</p>
-          </div>
-          <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.10s">
-            <figure><img src="images/footer-icon02.png" alt="Image"></figure>
-            <h3>Horário de Atendimento</h3>
-            <p>Segunda à Sexta <strong>09:00</strong> até <strong>18:30</strong> <br>
-              Sábados até <strong>15:30</strong></p>
-          </div>
-          <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.15s">
-            <figure><img src="images/footer-icon03.png" alt="Image"></figure>
-            <h3>Fale conosco</h3>
-            <p>(45) 9 9999-9999<br>
-              contato@sonhare.com.br</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
+  
 
   <?php include('./php/footer.php'); ?>
 

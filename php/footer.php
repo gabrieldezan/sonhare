@@ -1,4 +1,37 @@
-  <footer class="footer">
+<section class="footer-bar">
+    <div class="container">
+      <div class="inner wow fadeIn">
+        <div class="row">
+          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.05s">
+            <figure><img src="images/footer-icon01.png" alt="Image"></figure>
+            <h3>Endereço</h3>
+            <p>Rua Castro Alves, 2275 - Sala 13<br>
+              Cascavel, Paraná</p>
+          </div>
+          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.05s">
+            <figure><img src="images/footer-icon01.png" alt="Image"></figure>
+            <h3>Plantão</h3>
+            <p>Rua Pio XII, 2179,<br>
+            (esquina com Rua Rio de Janeiro)</p>
+          </div>
+          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.10s">
+            <figure><img src="images/footer-icon02.png" alt="Image"></figure>
+            <h3>Atendimento</h3>
+            <p>Segunda à Sexta <br> das <strong>08:30</strong> às <strong>17:30</strong> 
+              <!-- Sábados até <strong>15:30</strong> --> </p>
+          </div>
+          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.15s">
+            <figure><img src="images/footer-icon03.png" alt="Image"></figure>
+            <h3>Fale conosco</h3>
+            <p>(45) 3323-5366<br>
+            <p>(45) 9 9957-4992</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+ <footer class="footer">
       <div class="container">
           <div class="row">
               <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="images/logo-light.png" alt="Image" class="logo">
@@ -25,7 +58,8 @@
               <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
                   <div class="contact-box">
                       <h5>Entre em contato</h5>
-                      <h3>(45) 9 9999-9999</h3>
+                      <p><a href="#">(45) 3323-5366</a></p>
+                      <p><a href="#">(45) 9 9957-4992</a></p>
                       <p><a href="#">contato@sonhare.com.br</a></p>
                       <ul>
                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
