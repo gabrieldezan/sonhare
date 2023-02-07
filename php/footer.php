@@ -35,11 +35,13 @@
       <div class="container">
           <div class="row">
               <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="images/logo-light.png" alt="Image" class="logo">
-                  <p>A Sonhare é uma empresa comprometida com a entrega de um serviço transparente, de confiança e competente.</p>
+                  <p class="text-justify">A Sonhare é uma empresa comprometida com a entrega de um serviço transparente, de confiança e competente.</p>
                   <div class="select-box dropdown show"> <a class="dropdown-toggle" href="#" role="button" id="language-select" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span><img src="images/flag-br.svg" alt="Image"> Português</span> </a>
                       <ul class="dropdown-menu" aria-labelledby="language-select">
                           <li><a class="dropdown-item" href="#"><img src="images/flag-br.svg" alt="Image"> Português</a></li>
                           <li><a class="dropdown-item" href="#"><img src="images/flag-en.svg" alt="Image"> English</a></li>
+                          <li><a class="dropdown-item" href="#"><img src="images/fr.png" alt="Image"> Français</a></li>
+                          <li><a class="dropdown-item" href="#"><img src="images/ep.png" alt="Image"> Español</a></li>
                       </ul>
                   </div>
               </div>
@@ -58,9 +60,9 @@
               <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
                   <div class="contact-box">
                       <h5>Entre em contato</h5>
-                      <p><a href="#">(45) 3323-5366</a></p>
-                      <p><a href="#">(45) 9 9957-4992</a></p>
-                      <p><a href="#">contato@sonhare.com.br</a></p>
+                      <p><a href="#"><i class="fas fa-phone"></i> (45) 3323-5366</a></p>
+                      <p><a href="#"><i class="fab fa-whatsapp"></i> (45) 9 9957-4992</a></p>
+                      <p><a href="#"><i class="fas fa-envelope"></i> contato@sonhare.com.br</a></p>
                       <ul>
                           <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                           <li><a href="#"><i class="fab fa-instagram"></i></a></li>

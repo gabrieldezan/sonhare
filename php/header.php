@@ -14,6 +14,7 @@
         <li><a href="#simulacao">Simulação</a></li>
         <li><a href="#contato">Contato</a></li>
         <li><a href="blog.php">Blog</a></li>
+        <li><a href="#">Área do Cliente</a></li>
       </ul>
     </div>
     <div class="side-content">
@@ -60,6 +61,7 @@
           <li><a href="index.php#simulacao">Simulação</a></li>
           <li><a href="index.php#contato">Contato</a></li>
           <li><a href="blog.php">Blog</a></li>
+          <li><button class="cliente"><a href="https://www.superleme.com.br/portal/cadastrar/sonhare-correspondente-caixaaqui" target="_blank" class="cliente">Área do Cliente</a></button></li>
           
         </ul>
       </div>    
