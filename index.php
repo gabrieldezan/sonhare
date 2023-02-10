@@ -194,6 +194,7 @@
                       <span>Tipo de financiamento</span><br>
                       <div class="row simulacao">
                         <select class="col-12 nice-select">
+                          <option>--</option>
                           <option>Residencial</option>
                           <option>Comercial</option>
                         </select>
@@ -205,6 +206,7 @@
                       <span>Condição do Imóvel</span><br>
                       <div class="row simulacao">
                         <select class="col-12 nice-select">
+                          <option>--</option>
                           <option>Novo</option>
                           <option>Usado</option>
                         </select>
@@ -216,13 +218,13 @@
                       <span>Localização</span><br>
                       <div class="row simulacao" style="display:flex;justify-content:space-between;">
                         <select class="col-5 nice-select">
-                          <option>Estado</option>
+                          <option>--</option>
                           <option>Paraná</option>
                           <option>Santa Catarina</option>
                           <option>Rio Grande do Sul</option>
                         </select>
                         <select class="col-5 nice-select">
-                          <option>Cidade</option>
+                          <option>--</option>
                           <option>Cascavel</option>
                           <option>Foz do Iguaçu</option>
                         </select>
@@ -231,8 +233,14 @@
                   </div>
 
                   <div class="form-group">
-                    <span>Endereço</span>
-                    <input type="text" name="telefone" id="telefone" placeholder="Endereço completo" autocomplete="off" required>
+                    <span>1° Imóvel</span><br>
+                    <div class="row simulacao">
+                      <select class="col-12 nice-select">
+                        <option>--</option>
+                        <option>Sim</option>
+                        <option>Não</option>
+                      </select>
+                    </div>
                   </div>
                   <div class="form-group">
                     <span>Valor do imóvel (aproximado)</span>
