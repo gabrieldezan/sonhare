@@ -136,7 +136,7 @@
           <div class="content-box"> <b>04</b>
             <h4><span>Empréstimo consignado</span></h4>
             <h3>As melhores vantagens</h3>
-            <p class="text-justify">Crédito sem a necessidade de avalista, com vantagens especiais e as melhores condições do mercado, para funcionários de empresas e órgãos conveniados, aposentados e pensionistas do INSS. A prestação é descontada diretamente do seu salário ou benefício do INSS e você pode antecipar a liquidação quando quiser. Esqueça a burocracia. Com a gente, você não precisa de avalista e seu crédito fica disponível rapidinho.</p>
+            <p class="text-justify">Crédito sem a necessidade de avalista, com vantagens especiais e as melhores condições do mercado, para funcionários de empresas e órgãos conveniados, aposentados e pensionistas do INSS. A prestação é descontada diretamente do seu salário ou benefício do INSS. Esqueça a burocracia. Com a gente, você não precisa de avalista e seu crédito fica disponível rapidinho.</p>
             <a href="#">SABER MAIS <i class="fas fa-caret-right"></i></a>
           </div>
         </div>
