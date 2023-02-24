@@ -2,25 +2,25 @@
     <div class="container">
       <div class="inner wow fadeIn">
         <div class="row">
-          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.05s">
+          <div class="col-lg-3 col-md-3 wow fadeInUp" data-wow-delay="0.05s" style="padding-bottom: 20px;">
             <figure><img src="images/footer-icon01.png" alt="Image"></figure>
             <h3>Endereço</h3>
             <p>Rua Castro Alves, 2275 - Sala 13<br>
               Cascavel, Paraná</p>
           </div>
-          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.05s">
+          <div class="col-lg-3 col-md-3 wow fadeInUp" data-wow-delay="0.05s" style="padding-bottom: 20px;">
             <figure><img src="images/footer-icon01.png" alt="Image"></figure>
             <h3>Plantão</h3>
             <p>Rua Pio XII, 2179,<br>
             (esquina com Rua Rio de Janeiro)</p>
           </div>
-          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.10s">
+          <div class="col-lg-3 col-md-3 wow fadeInUp" data-wow-delay="0.10s" style="padding-bottom: 20px;">
             <figure><img src="images/footer-icon02.png" alt="Image"></figure>
             <h3>Atendimento</h3>
             <p>Segunda à Sexta <br> das <strong>08:30</strong> às <strong>17:30</strong> 
               <!-- Sábados até <strong>15:30</strong> --> </p>
           </div>
-          <div class="col-lg-3 wow fadeInUp" data-wow-delay="0.15s">
+          <div class="col-lg-3 col-md-3 wow fadeInUp" data-wow-delay="0.15s" style="padding-bottom: 20px;">
             <figure><img src="images/footer-icon03.png" alt="Image"></figure>
             <h3>Fale conosco</h3>
             <p>(45) 3323-5366<br>
@@ -32,9 +32,9 @@
   </section>
 
  <footer class="footer">
-      <div class="container">
+      <div class="container" style="padding: 0 50px;">
           <div class="row">
-              <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="images/logo-light.png" alt="Image" class="logo">
+              <div class="col-lg-4 col-md-4 wow fadeInUp" data-wow-delay="0.05s"> <img src="images/logo-light.png" alt="Image" class="logo">
                   <p class="text-justify">A Sonhare é uma empresa comprometida com a entrega de um serviço transparente, de confiança e competente.</p>
                   <div class="select-box dropdown show"> <a class="dropdown-toggle" href="#" role="button" id="language-select" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <span><img src="images/flag-br.svg" alt="Image"> Português</span> </a>
                       <ul class="dropdown-menu" aria-labelledby="language-select">
@@ -45,7 +45,7 @@
                       </ul>
                   </div>
               </div>
-              <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.10s">
+              <div class="col-lg-4 col-md-3 wow fadeInUp" data-wow-delay="0.10s">
                   <div class="footer-menu">
                       <ul>
                           <li><a href="index.php">Home</a></li>
@@ -57,7 +57,7 @@
                       </ul>
                   </div>
               </div>
-              <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.20s">
+              <div class="col-lg-4 col-md-5 wow fadeInUp" data-wow-delay="0.20s">
                   <div class="contact-box">
                       <h5>Entre em contato</h5>
                       <p><a href="#"><i class="fas fa-phone"></i> (45) 3323-5366</a></p>
@@ -71,7 +71,7 @@
                       </ul>
                   </div>
               </div>
-              <div class="col-12"> <span class="copyright">© 2023 Sonhare | Todos os direitos reservados.</span>
+              <div class="col-12" style="display: flex;justify-content: space-between;"> <span class="copyright">© 2023 Sonhare | Todos os direitos reservados.</span>
                   <div class="creation">
                       <a href="https://webdezan.com.br/"><img src="./images/logo-wd.webp" alt="img"></a>
                   </div>

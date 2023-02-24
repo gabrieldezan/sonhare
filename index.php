@@ -69,15 +69,15 @@
     </div>
   </header>
   <section id="quem-somos" class="intro">
-    <div class="container">
+    <div class="container" style="padding: 0 50px;">
       <div class="row align-items-center">
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-12 col-sm-12 center">
           <figure>
             <div class="pattern-bg" data-stellar-ratio="1.07"></div>
             <div class="holder" data-stellar-ratio="1.10"> <img src="images/side-image02.jpg" alt="Image"></div>
           </figure>
         </div>
-        <div class="col-lg-6 wow fadeInUp">
+        <div class="col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
           <div class="content-box"> <b>01</b>
             <h4><span>Quem somos</span></h4>
             <h3>Competência, transparência e confiança</h3>
@@ -90,8 +90,8 @@
 
   <section id="servico1" class="property-calculator-right">
     <div class="container">
-      <div class="row align-items-center bg-gray">
-        <div class="col-lg-8 wow fadeInUp">
+      <div class="row align-items-center bg-gray center2" style="padding: 50px 0;">
+        <div class="col-lg-8 col-md-8 col-sm-12 wow fadeInUp">
           <div class="content-box"> <b>02</b>
             <h4><span>Financiamento Habitacional</span></h4>
             <h3>Realize seu sonho</h3>
@@ -99,7 +99,7 @@
             <a href="#">SABER MAIS <i class="fas fa-caret-right"></i></a>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-4 col-sm-12 w-80">
           <figure>
             <div class="pattern-bg" data-stellar-ratio="1.03"></div>
             <div class="holder" data-stellar-ratio="1.07"> <img src="images/side-image01.jpg" alt="Image"></div>
@@ -109,16 +109,16 @@
     </div>
   </section>
 
-  <section id="servico2" class="property-calculator">
+  <section id="servico2" class="property-calculator-left">
     <div class="container">
-      <div class="row align-items-center bg-gray">
-        <div class="col-lg-4">
+      <div class="row align-items-center bg-gray reverse center2" style="padding: 50px 0;">
+        <div class="col-lg-4 col-md-4 col-sm-4 w-80">
           <figure>
             <div class="pattern-bg" data-stellar-ratio="1.03"></div>
             <div class="holder" data-stellar-ratio="1.07"> <img src="images/side-image03.jpg" alt="Image"></div>
           </figure>
         </div>
-        <div class="col-lg-8 wow fadeInUp">
+        <div class="col-lg-8 col-md-8 sol-sm-12 wow fadeInUp">
           <div class="content-box"> <b>03</b>
             <h4><span>Consórcio de Imóveis e Veículos</span></h4>
             <h3>Invista de maneira inteligente</h3>
@@ -131,8 +131,8 @@
 
   <section id="servico3" class="property-calculator-right">
     <div class="container">
-      <div class="row align-items-center bg-gray">
-        <div class="col-lg-8 wow fadeInUp">
+      <div class="row align-items-center bg-gray center2" style="padding: 50px 0;">
+        <div class="col-lg-8 col-md-8 col-sm-12 wow fadeInUp">
           <div class="content-box"> <b>04</b>
             <h4><span>Empréstimo consignado</span></h4>
             <h3>As melhores vantagens</h3>
@@ -140,7 +140,7 @@
             <a href="#">SABER MAIS <i class="fas fa-caret-right"></i></a>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-4 col-sm-12 w-80">
           <figure>
             <div class="pattern-bg" data-stellar-ratio="1.03"></div>
             <div class="holder" data-stellar-ratio="1.07"> <img src="images/side-image04.jpg" alt="Image"></div>
@@ -150,16 +150,16 @@
     </div>
   </section>
 
-  <section id="servico4" class="property-calculator">
+  <section id="servico4" class="property-calculator-left">
     <div class="container">
-      <div class="row align-items-center bg-gray">
-        <div class="col-lg-4">
+      <div class="row align-items-center bg-gray reverse center2" style="padding: 50px 0;">
+        <div class="col-lg-4 col-md-4 col-sm-12 w-80">
           <figure>
             <div class="pattern-bg" data-stellar-ratio="1.03"></div>
             <div class="holder" data-stellar-ratio="1.07"> <img src="images/side-image05.jpg" alt="Image"></div>
           </figure>
         </div>
-        <div class="col-lg-8 wow fadeInUp">
+        <div class="col-lg-8 col-md-8 col-sm-12 wow fadeInUp">
           <div class="content-box"> <b>05</b>
             <h4><span>Seguros</span></h4>
             <h3>Descomplicado</h3>
@@ -172,14 +172,14 @@
 
 
   <section id="simulacao" class="property-plans" style="background-color: #f9f8f8;">
-    <div class="container">
+    <div class="container" style="padding: 0 50px;">
       <div class="row align-items-center">
         <div class="col-lg-6 wow fadeInUp"> <b>06</b>
           <h4><span>Simulação</span></h4>
           <h3>Faça sua simulação!</h3>
           <p class="text-justify">Faça uma simulação de financiamento ou do empréstimo Sonhare e saiba mais detalhes sobre prazos e condições.</p>
         </div>
-        <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.05s">
+        <div class="col-lg-6 col-sm-12 wow fadeInUp" data-wow-delay="0.05s">
           <ul class="nav nav-pills" id="pills-tab" role="tablist">
             <li class="nav-item"> <a class="nav-link active" data-toggle="pill" href="#tab-one">1. Sobre o Imóvel</a> </li>
             <li class="nav-item"> <a class="nav-link" data-toggle="pill" href="#tab-two" role="tab">2. Seus Dados</a> </li>
@@ -297,9 +297,6 @@
                   <div class="form-group">
                     <span>Seus dados foram enviados!<br>Em breve, nosso time entrará em contato com você.</span>
                   </div>
-
-
-
                 </form>
               </div>
             </div>
@@ -310,7 +307,7 @@
   </section>
 
   <section id="contato" class="contact">
-    <div class="container">
+    <div class="container" style="padding: 0 50px;">
       <div class="row align-items-center">
         <div class="col-lg-4 wow fadeInUp"> <b>07</b>
           <h4><span>Informações</span> de contato</h4>
@@ -332,7 +329,7 @@
         </div>
       </div>
       <div class="row align-items-center">
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-6">
           <div class="map">
             <div class="pattern-bg2" data-stellar-ratio="1.03"></div>
             <div class="holder" data-stellar-ratio="1.07">
@@ -340,7 +337,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 col-md-6">
           <div class="contact-form">
             <form id="contact" name="contact" method="post">
               <div class="form-group">
